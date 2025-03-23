@@ -1,6 +1,13 @@
 **/content/
 **/data/
 **/out/
+debug
+debug.*
+**/debug/
+**/debug/*
+
+# Ignore all zip files
+*.zip
 
 # macOS
 .DS_Store
